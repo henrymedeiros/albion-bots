@@ -31,7 +31,7 @@ def detect_green_bar(image_path):
         # Check if the green bar is large enough (adjust the threshold as needed)
         threshold_height = 21  # Example threshold
         if h >= threshold_height:
-            print('Height: ', h)
+            # print('Height: ', h)
             print("Large green bar detected!")
             return True
         
@@ -105,7 +105,7 @@ def control_cursor_within_bounds(cursor_template_path, left_edge: int, right_edg
 
         if not cursor_position:
             pyautogui.mouseUp()
-            print("Cursor not found. Stopping the script.")
+            print("Fishing cursor not found. Stopping fishing function...")
             return
 
         # Small delay to prevent too fast loops
