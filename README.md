@@ -1,5 +1,5 @@
 ## Node no walk (node_no_walk.py)
-Works by positioning your charachter in the middle of some gathering nodes that don't require clicking and moving to them.
+Works by positioning your character in the middle of some gathering nodes that don't require clicking and moving to them.
 
 ### Argmuments
 - `--n`: Number of nodes.
