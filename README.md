@@ -8,7 +8,7 @@ Works by positioning your character in the middle of some gathering nodes that d
 
 ### Instalation
 
-1. pip install -r requirements.txt
+1. `pip install -r requirements.txt`
 
 
 ### Usage
