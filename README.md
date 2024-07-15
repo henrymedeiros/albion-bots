@@ -6,6 +6,11 @@ Works by positioning your character in the middle of some gathering nodes that d
 - `--i`: Time/interval to gather the full node.
 - `--h`: Help
 
+### Instalation
+
+1. pip install -r requirements.txt
+
+
 ### Usage
 
 1. Run: `python node_no_walk.py --n {number of nodes} --i {interval}`
